@@ -1,0 +1,8 @@
+﻿  TimSort.cpp
+D:\Универ\АиСД\TimSort\TimSort\ArrayList.h(76,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Универ\АиСД\TimSort\TimSort\ArrayList.h(70): message : во время компиляции функции-члена класс шаблон "int ArrayList<double>::Get(int)"
+D:\Универ\АиСД\TimSort\TimSort\TimSort.cpp(99): message : выполняется компиляция ссылки на экземпляр шаблон функции "int ArrayList<double>::Get(int)"
+D:\Универ\АиСД\TimSort\TimSort\TimSort.cpp(86): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "ArrayList<double>"
+D:\Универ\АиСД\TimSort\TimSort\TimSort.cpp(63,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Универ\АиСД\TimSort\TimSort\TimSort.cpp(102): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Timsort<double>(std::vector<double,std::allocator<double>> &)"
+  TimSort.vcxproj -> D:\Универ\АиСД\TimSort\x64\Debug\TimSort.exe
