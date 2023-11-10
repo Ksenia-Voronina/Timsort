@@ -84,12 +84,12 @@ int main()
 {
     setlocale(LC_ALL, "Russian");
     ArrayList<double> list;
+    list.AddEnd(3);
+    list.AddEnd(1);
     list.AddEnd(5);
     list.AddEnd(2);
-    list.AddEnd(7);
+    list.AddEnd(0);
     list.AddEnd(4);
-    list.AddEnd(1);
-    list.AddEnd(9);
 
     list.Print();
 
